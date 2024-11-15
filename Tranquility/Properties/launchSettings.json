@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tranquility (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Tranquility (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
