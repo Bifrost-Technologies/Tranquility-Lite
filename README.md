@@ -3,7 +3,7 @@
 
 Maximum Security Wallet for the Solana blockchain.
 
-Available on the Microsoft Store for PC, Mobile/Tablet, Xbox, Holo-lens etc.
+Available on the Microsoft Store for PC
 
 
 Using real-time data protection and SHA512 hashing for maximum security.
