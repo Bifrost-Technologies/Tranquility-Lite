@@ -76,7 +76,7 @@
             PlaceholderText="Password"
             RequestedTheme="Default"
             SelectionHighlightColor="#FF00A7FF" />
-        
+
         <TextBlock
             x:Name="AppTitle"
             Width="292"
@@ -120,7 +120,7 @@
             TextAlignment="Center"
             TextWrapping="Wrap"
             Visibility="Collapsed" />
-       
+
 
     </Grid>
 </Page>

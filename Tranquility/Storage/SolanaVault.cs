@@ -1,13 +1,6 @@
-﻿using Solnet.Wallet;
-using Solnet.Wallet.Bip39;
-using System;
-using System.Security;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Security.Cryptography;
 using System.Threading.Tasks;
-using Windows.Security.Cryptography;
-using Windows.Security.Cryptography.DataProtection;
 using Windows.Storage;
 using Windows.Storage.Streams;
 using System.Runtime.InteropServices.WindowsRuntime;
